@@ -1,0 +1,139 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 199, 136);
+}
+
+
+     
+
+ .logo {
+    text-decoration: none;
+    background-color: #e3a549;
+    color: rgb(115, 66, 14);
+    font-size: 80px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: block;}
+
+.logo2 {
+    text-decoration: none;
+    background-color: #e3a549;
+    color: rgb(115, 66, 14);
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    display: block;}
+
+.logo3 {
+    text-decoration: none;
+    background-color: #e3a549;
+    color: rgb(115, 66, 14);
+    font-size: 50px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    display: block;}
+
+
+.logo1 {
+    text-decoration: none;
+    background-color: #e3a549;
+    color: rgb(115, 66, 14);
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    display: block;}
+
+.img1 {
+    position: relative;  
+    top:33px ;
+    left: 50px;
+
+}
+
+.img2 {
+    position: relative;  
+    right: 50px ;
+    top:60px ;
+    }
+.img3 {
+    position: relative;
+    top:60px  ;
+    left:650px;
+  
+}
+
+p {
+   color: #4a381b;
+   text-align: left;
+   font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+     color: rgb(115, 66, 14)
+}
+
+.lodi {
+ margin-right:20px ;
+}
+
+.log {
+   text-decoration: none;
+    background-color: #cf9744;
+    color: rgb(115, 66, 14);
+    font-size: 50px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    display: block;}
+ 
+ .loga {
+   text-decoration: none;
+    background-color: #e3a549;
+    color: rgb(115, 66, 14);
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    display: block;}
+
+ .logg {
+   text-decoration: none;
+    background-color: #e3a549;
+    color: rgb(115, 66, 14);
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    display: block;}
+
+.logs {
+   text-decoration: none;
+    background-color: #e3a549;
+    color: rgb(81, 47, 11);
+    font-size: 35px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    display: block;}
+
+    
+.logf {
+   text-decoration: none;
+    color: rgb(81, 47, 11);
+    font-size: 45px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    display: block;}
+
+.qw {
+   text-decoration: none;
+    color: rgb(115, 66, 14);
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    display: block;}
+
+ .fuf {
+    padding: 20px;
+ }
+
+.fyf {
+  font-size: 20px;
+}
